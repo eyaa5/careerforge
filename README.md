@@ -1,4 +1,4 @@
-# CareerForge 🔥
+# CareerForge 
 AI-powered résumé analyzer + enhancer (FastAPI).  
 Upload a PDF CV + paste a job description → get:
 - Skill match score
@@ -9,7 +9,7 @@ Upload a PDF CV + paste a job description → get:
 
 https://github.com/eyaa5/careerforge
 
-## ✨ Demo (local)
+##  Demo (local)
 ```bash
 # 1) Create environment (optional)
 python -m venv .venv
